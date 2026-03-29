@@ -76,7 +76,7 @@ First gate before any modeling. Checked for nulls, duplicates and class distribu
 
 ### 2. Exploratory Data Analysis
 
-Every chart was built to answe a specific business question, not just describe the data.
+Every chart was built to answer a specific business question, not just describe the data.
 
 **Key findings:**
 
