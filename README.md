@@ -2,15 +2,15 @@
 
 ## Business Context
 
-Customer churn is not a data problem — it is a revenue problem.
+Customer churn is not a data problem - it is a revenue problem.
 
-Research consistently shows that acquiring a new customer costs 5–7x more
+Research consistently shows that acquiring a new customer costs 5-7x more
 than retaining an existing one. For any subscription or membership-driven
 business, even a 5% reduction in churn can translate to a 25–95% increase
 in profitability.
 
 This project builds a churn prediction system that identifies at-risk
-customers **before** they leave — giving the business a window to intervene.
+customers **before** they leave and  giving the business a window to intervene.
 
 ---
 
